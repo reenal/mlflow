@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reenal/mlflow/mlruns/0/8749d357842740a4be6f444e10c413da/artifacts
+end_time: 1678794075848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 8749d357842740a4be6f444e10c413da
+run_uuid: 8749d357842740a4be6f444e10c413da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678794073718
+status: 3
+tags: []
+user_id: reenal
